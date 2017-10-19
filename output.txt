@@ -1,0 +1,54 @@
+[ 1064.733916] -> Module 12 load!
+[ 1064.733964] kmem_cache_create - ok
+[ 1064.733964] Cache object size is 4096
+[ 1064.734123] Constructor #1- ok
+[ 1064.734123] Constructor #2- ok
+[ 1064.734124] Constructor #3- ok
+[ 1064.734124] Constructor #4- ok
+[ 1064.734124] Constructor #5- ok
+[ 1064.734125] Constructor #6- ok
+[ 1064.734190] Constructor #7- ok
+[ 1064.734190] kmem_cache_alloc - ok
+[ 1064.734191] kmem_cache_free - ok
+[ 1064.734909] remove_my_cache - ok
+[ 1064.785297] <- Module 12 unload!
+
+[ 1887.040726] -> Module 12 load!
+[ 1887.040816] kmem_cache_create - ok
+[ 1887.040818] Cache object size is 8196
+[ 1887.040828] Constructor #1- ok
+[ 1887.040843] Constructor #2- ok
+[ 1887.040856] Constructor #3- ok
+[ 1887.040868] kmem_cache_alloc - ok
+[ 1887.040869] kmem_cache_free - ok
+[ 1887.040872] remove_my_cache - ok
+[ 1887.097424] <- Module 12 unload!
+
+[ 1928.196011] -> Module 12 load!
+[ 1928.197846] kmem_cache_create - ok
+[ 1928.197848] Cache object size is 128
+[ 1928.197865] Constructor #1- ok
+[ 1928.197867] Constructor #2- ok
+[ 1928.197867] Constructor #3- ok
+[ 1928.197868] Constructor #4- ok
+[ 1928.197868] Constructor #5- ok
+[ 1928.197868] Constructor #6- ok
+[ 1928.197869] Constructor #7- ok
+[ 1928.197869] Constructor #8- ok
+[ 1928.197869] Constructor #9- ok
+[ 1928.197869] Constructor #10- ok
+[ 1928.197870] Constructor #11- ok
+[ 1928.197870] Constructor #12- ok
+[ 1928.197870] Constructor #13- ok
+[ 1928.197871] Constructor #14- ok
+[ 1928.197871] Constructor #15- ok
+[ 1928.197871] Constructor #16- ok
+[ 1928.197871] Constructor #17- ok
+[ 1928.197872] Constructor #18- ok
+[ 1928.197872] Constructor #19- ok
+[ 1928.197872] Constructor #20- ok
+[ 1928.197873] Constructor #21- ok
+[ 1928.197873] kmem_cache_alloc - ok
+[ 1928.197873] kmem_cache_free - ok
+[ 1928.197876] remove_my_cache - ok
+[ 1928.252915] <- Module 12 unload!
